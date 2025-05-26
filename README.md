@@ -2,7 +2,8 @@
 
 🎓 Tecnólogo en Análisis y Desarrollo de Software - SENA  
 💻 Apasionado por el desarrollo web, sistemas de gestión y automatización de procesos  
-📍 Desde Ibagué, Tolima | Orgullosamente Saldañuno  
+Marketing Digital
+📍 Desde Ibagué, Tolima
 🏋️‍♂️ Disciplinado en el gimnasio y en la vida
 
 ---
@@ -17,8 +18,9 @@ Soy un desarrollador en formación con grandes metas: ser un excelente ingeniero
 
 - Lenguajes: PHP, JavaScript, Python, HTML, CSS
 - Frameworks: Laravel, Flask
+- Bibliotecas: React.js, jQuery, jsBarcode
 - Bases de datos: MySQL, PostgreSQL
-- Herramientas: Git, GitHub, VSCode
+- Herramientas: Git, GitHub, VSCode, Trae
 - Diseño: Bootstrap, Google Fonts, Icons
 
 ---
@@ -27,7 +29,7 @@ Soy un desarrollador en formación con grandes metas: ser un excelente ingeniero
 
 - 🔄 Laravel con roles y autenticación personalizada
 - 🧠 Fundamentos de Flutter
-- ☁️ APIs REST y consumo de datos públicos como SIMIT
+- ☁️ APIs REST 
 - 🧩 Estructura de software modular y mantenible
 
 ---
@@ -36,15 +38,15 @@ Soy un desarrollador en formación con grandes metas: ser un excelente ingeniero
 
 - 🛠️ **Flotax AGC**: Plataforma de gestión de flota vehicular
 - 📨 **Sistema de Correspondencia**: Control y gestión de envíos institucionales
-- 🏢 **Admin CRUD**: Sistemas con roles (admin/usuario), login con cédula y control de acceso
 
 ---
 
 ### 📫 Cómo contactarme
 
-- ✉️ edwarf.gomezs@misena.edu.co
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-linkedin-aqui/)
+- ✉️ edwarf_gomez@msoy.sena.edu.co
+- 💼 [LinkedIn](www.linkedin.com/in/edward-farid-gomez-sanchez-9ab07732a)
 - 🌐 [Portafolio](https://tuportafolio.com/) (opcional)
+-  [Slack](https://tuportafolio.com/) (opcional)
 
 ---
 
